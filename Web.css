@@ -18,11 +18,30 @@
 }
 #content {
   grid-area: c;
-  
+
 }
 #right-menu {
   grid-area: r;
 }
 #footer {
   grid-area: f;
+}
+
+#nombre {
+margin-left: 90px;
+
+}
+
+.ritmo {
+  position: relative;
+margin-left: -460px;
+top: 1020px;
+
+}
+
+.ola {
+
+position: relative;
+
+right:  10em;
 }
